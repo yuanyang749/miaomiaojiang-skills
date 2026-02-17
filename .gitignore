@@ -1,0 +1,13 @@
+# Config files
+config.json
+perplexity-key.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# OS
+.DS_Store
