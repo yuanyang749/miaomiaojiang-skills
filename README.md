@@ -6,6 +6,7 @@
 
 ### 1. [Miaomiaojiang Perplexity Research](./miaomiaojiang-perplexity-research)
 基于 Perplexity AI 的实时联网搜索与研究工具。支持每日 AI 资讯、GitHub 趋势发现以及深度专题研究。
+*(Contains **Auto-Installation Guide** for AI Agents inside.)*
 
 ---
 
